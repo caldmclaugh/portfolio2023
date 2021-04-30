@@ -201,7 +201,6 @@ ul > li {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  padding-top: -10rem;
 }
 .furward .description {
   margin: 0 auto;
